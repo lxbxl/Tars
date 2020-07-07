@@ -2,7 +2,17 @@
 
 # Readme.md
 
-## Tars
+# Tars
+
+- Twitter: [@TarsCloud](https://twitter.com/TarsCloud)
+- [Mailing List](https://groups.google.com/g/tars-foundation-information)
+- [官网](http://tarscloud.org/)
+- [新闻](https://tarscloud.org/feed/newsroom)
+- qq技术交流群群：579079160、669339903
+- 微信公众号: TarsCloud
+- [更多联系方式请点击](https://tarscloud.org/about/contacts)
+
+## 简介
 
 Tars这个名字取自于电影"星际穿越"中的机器人，它是基于名字服务使用Tars协议的高性能RPC开发框架，配套一体化的运营管理平台，并通过伸缩调度，实现运维半托管服务。
 
@@ -45,13 +55,12 @@ Tars由多种模块组成, 分散在多个仓库中, 并且基础框架版本和
 
 ### License
 
-Tars的开源协议为BSD-3-Clause，详情参见 [LICENSE](https://tarscloud.github.io/TarsDocs/license.html)。
+Tars的开源协议为BSD-3-Clause，详情参见 [LICENSE](https://github.com/TarsCloud/TarsDocs/blob/master/LICENSE)。
 
-### 联系方式
+### 参与贡献
 
-qq技术交流群群：579079160、669339903。
+如果你有任何想法，别犹豫，立即提 Issues 或 Pull Requests，欢迎所有人参与到 TARS 的开源建设中。
+提PR前请先确认签署了 [CLA](https://tarscloud.github.io/TarsDocs/cla.html) 哦。
 
-微信公众号：TARS星球
 
-推特地址：[@TarsCLoud](https://twitter.com/TarsCloud)
 
